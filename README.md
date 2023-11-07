@@ -9,3 +9,5 @@ https://github.com/MarginallyClever/Makelangelo-software/releases
 https://www.homofaciens.de/technics-machines-v-plotter_en.htm
 
 https://lizmelchor.com/wall-robot/
+
+https://www.printables.com/fr/model/407394-makelangelo-pen-holder-2023/files
